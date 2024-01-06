@@ -1,0 +1,6 @@
+apiVersion: roarapp.roarapp.com/v1alpha1
+kind: RoarApp
+metadata:
+  name: roarapp-sample
+spec:
+  # TODO(user): Add fields here
